@@ -1,0 +1,9 @@
+"workshopitem"
+{
+"appid" "211820"
+"publishedfileid" "2947934849"
+"contentfolder" "{{PWD}}/out/workshop"
+"previewfile" "{{PWD}}/out/preview.jpg"
+"title" "YFFS: YellowApple's Friendly Froggs and Shadows"
+"changenote" "First release"
+}
