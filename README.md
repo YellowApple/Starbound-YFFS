@@ -21,8 +21,8 @@ Multiple ways:
 - Download YFFS.pak from the Starbound forums (FIXME: actually upload
   it there and add a link here) and stick it in Starbound's mods
   folder (like any other mod)
-- Subscribe to it on the Steam Workshop (FIXME: actually upload it
-  there and add a link here)
+- Subscribe to it on the [Steam
+  Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2947934849)
 - Clone it into Starbound's `mods` folder:
   - On Linux: `git clone
     https://github.com/YellowApple/Starbound-YFFS.git
